@@ -1,4 +1,9 @@
 # Resque for PHP
+
+## About
+
+This is a fork of the vent/resque repo on https://github.com/vend/php-resque. The idea is to improve on the package without the need to rely on implementations of vent. It seems the development on the original bundle (chrisboulton/php-resque) and vend stopped a long time ago. The namespacing seems to be a huge improvement over the original implementation. Future updates will include dequeueing and more.
+
 ## Namespaced Fork
 
 [![Build Status](https://travis-ci.org/vend/php-resque.svg?branch=master)](https://travis-ci.org/vend/php-resque)
